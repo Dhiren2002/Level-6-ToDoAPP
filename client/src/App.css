@@ -1,0 +1,174 @@
+.App {
+  text-align: center;
+
+}
+
+
+
+h1 {
+  padding-top: 2rem;
+  text-align: center;
+}
+
+#light .header {
+  background-color: #e6f5ff;
+  color: #282c34;
+  font-weight: bold;
+}
+
+#dark .header {
+  background-color: #282c34;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+#light .counter {
+  background-color: #e6f5ff;
+  color: #282c34;
+  font-weight: bold;
+}
+
+#dark .counter {
+  background-color: #282c34;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+#light .form {
+  background-color: #e6f5ff;
+  color: #282c34;
+  font-weight: bold;
+}
+
+#dark .form {
+  background-color: #282c34;
+  color: #ffffff;
+  font-weight: bold;
+
+}
+
+#light .card {
+  background-color: #e6f5ff;
+  color: #282c34;
+  font-weight: bold;
+}
+
+#dark .card {
+  background-color: #32363f;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+#light .nav-side-bar {
+  background-color: #e6f5ff;
+  color: #282c34;
+  font-weight: bold;
+}
+
+#dark .nav-side-bar {
+  background-color: #32363f;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+#light .add-tasks {
+  background-color: #e6f5ff;
+  color: #282c34;
+  font-weight: bold;
+}
+
+#dark .add-tasks {
+  background-color: #32363f;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+#light .view-tasks {
+  background-color: #e6f5ff;
+  color: #282c34;
+  font-weight: bold;
+}
+
+#dark .view-tasks {
+  background-color: #282c34;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+#light {
+  background-color: #e6f5ff;
+}
+
+#dark {
+  background-color: #282c34;
+}
+
+
+#light .switch label {
+  font-weight: bold;
+  color: #282c34;
+}
+
+#dark .switch label {
+  font-weight: bold;
+  color: #ffff
+}
+
+
+.switch {
+  display: flex;
+  width: 100vw;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.filter-container button {
+  margin-right: 2rem;
+  min-width: 5rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  background: white;
+  color: rgb(65, 98, 168);
+  border-radius: 2px solid rgb(65, 98, 168);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
